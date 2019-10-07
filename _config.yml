@@ -1,6 +1,6 @@
 # Site
 title:              Hello! I'm Fion
-bio:                'Jekyll version of the Massively theme by HTML5UP'
+bio:                'Glimpse of my life, career, and passion'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,9 +11,7 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
+linkedin:           default
 github:             default
 
 # personal
