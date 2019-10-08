@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: About Me
+description: A deeper look into what I have been working on and more about me!
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
@@ -14,7 +14,7 @@ sitemap:
 This is where I will talk about my current projects, career orientated and my interests!
 
 Woo!
-
+<br></br>
 ### Career
 <div class="box">
   <p>
