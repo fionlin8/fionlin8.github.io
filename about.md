@@ -11,9 +11,10 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-This is where I will talk about my current projects, career orientated and my interests!
+I'm currently a sophomore studying business at the Ross School of Business here at the University of Michigan! I'm from Brooklyn, NY and coming to college out of state was thrilling. I wanted to find what I liked about business and currently my interests are in tech. Business in tech is the perfect medly for me because I liked serving people and also I loved how tech represented the future. My friend gifted me a customized necklace based on a personality strength and mine was dreamer. 
 
-Woo!
+I am a dreamer, a native New Yorker, and my favorite ice cream flavor is chocolate.
+
 <br/> <br/> <br/>   
 
 ### Career
