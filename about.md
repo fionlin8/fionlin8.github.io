@@ -15,8 +15,6 @@ I'm currently a sophomore studying business at the Ross School of Business here 
 
 I am a dreamer, a native New Yorker, and my favorite ice cream flavor is chocolate.
 
-<br/> <br/> <br/>   
-
 ### Career
 <div class="box">
   <p>
