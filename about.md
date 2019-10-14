@@ -18,7 +18,6 @@ I am a dreamer, a native New Yorker, and my favorite ice cream flavor is chocola
 ### Projects
 <div class="box">
   <p>
-During the summer of 2019, I was a Brand Strategy Intern for Mott Optical Group. My overall goal was to bring the generational business into the modern world where businesses are going digital and e-commerce is quite common. I used Shopify to upload their designer eyewear and created content on their brands, events, and promotions. I enjoyed using my HTML & CSS skills to design their page into one that was easy to navigate through. I also learned a lot about the eyewear industry and how it is a mix between healthcare, fashion, and business. Business is in every aspect of our lives and I saw how my work directly affected the families in the surrounding Chinatown neighborhood.
   </p>
 </div>
 
