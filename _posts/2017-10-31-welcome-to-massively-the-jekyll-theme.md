@@ -11,8 +11,8 @@ Daddy? Who? Probably not the one you are thinking about (hush with the giggles),
 
 ## Theme
 In this year’s Harvest retreat, the main topic was: Daddy loves you. What does it mean to be loved by God? It means that all our efforts to please Him are meaningless. Whether it is going to church every Sunday for the sake of keeping a reputation or going to a party or not, these efforts mean nothing. The one thing that matters is our heart and how we love and chase God with everything we have. 
-```
-Morever, when God gives someone wealth and possessions, and the ability to enjoy them, to accept their lot and be happy in their toil – this is a gift of God. Then seldom reflect on the days of their life, because God keepes them occupied with gladness of heart. – Ecclesiastes 5:19
+
+> Morever, when God gives someone wealth and possessions, and the ability to enjoy them, to accept their lot and be happy in > their toil – this is a gift of God. Then seldom reflect on the days of their life, because God keepes them occupied with > gladness of heart. – Ecclesiastes 5:19
   
 ```
 ### Takeaway
