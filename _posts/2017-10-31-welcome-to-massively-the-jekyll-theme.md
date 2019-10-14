@@ -12,10 +12,8 @@ Daddy? Who? Probably not the one you are thinking about (hush with the giggles),
 ## Theme
 In this year’s Harvest retreat, the main topic was: Daddy loves you. What does it mean to be loved by God? It means that all our efforts to please Him are meaningless. Whether it is going to church every Sunday for the sake of keeping a reputation or going to a party or not, these efforts mean nothing. The one thing that matters is our heart and how we love and chase God with everything we have. 
 ```
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+Insert bible verse/quote:
+  
 ```
 ### Takeaway
 Hearing Pastor Paul’s stories and metaphors, I was touched by how I related to the little boy who would continually seek the mailman’s love even though his father was showering love upon him. I was seeking love from the acceptance of others and finding value in achievements. The stress and anxiety I felt from putting all my cards out there meant nothing. The future for me could not be entirely be molded by my hands. Everything that I was working on was driven by my own greed and I had no room for my God. Coming back to campus, I hope to continue surrendering to my Daddy up in heaven and know that He loves me unconditionally, despite my mistakes and countless efforts.
