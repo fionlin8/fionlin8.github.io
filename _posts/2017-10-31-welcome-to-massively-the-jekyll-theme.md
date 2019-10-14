@@ -14,6 +14,5 @@ In this year’s Harvest retreat, the main topic was: Daddy loves you. What does
 
 > Morever, when God gives someone wealth and possessions, and the ability to enjoy them, to accept their lot and be happy in > their toil – this is a gift of God. Then seldom reflect on the days of their life, because God keepes them occupied with > gladness of heart. – Ecclesiastes 5:19
   
-```
 ### Takeaway
 Hearing Pastor Paul’s stories and metaphors, I was touched by how I related to the little boy who would continually seek the mailman’s love even though his father was showering love upon him. I was seeking love from the acceptance of others and finding value in achievements. The stress and anxiety I felt from putting all my cards out there meant nothing. The future for me could not be entirely be molded by my hands. Everything that I was working on was driven by my own greed and I had no room for my God. Coming back to campus, I hope to continue surrendering to my Daddy up in heaven and know that He loves me unconditionally, despite my mistakes and countless efforts.
